@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+E:\projekt C++\DZ 1\1.2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(21,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\projekt C++\DZ 1\1.2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,25): warning C4244: +=: преобразование "_Ty" в "int", возможна потеря данных
+E:\projekt C++\DZ 1\1.2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,25): warning C4244:         with
+E:\projekt C++\DZ 1\1.2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,25): warning C4244:         [
+E:\projekt C++\DZ 1\1.2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,25): warning C4244:             _Ty=double
+E:\projekt C++\DZ 1\1.2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(23,25): warning C4244:         ]
+  ConsoleApplication1.vcxproj -> E:\projekt C++\DZ 1\1.2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

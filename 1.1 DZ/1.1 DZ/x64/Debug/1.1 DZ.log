@@ -1,0 +1,49 @@
+﻿  1.1 DZ.cpp
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(8,1): error C2144: синтаксическая ошибка: перед "int" требуется ";"
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(9,26): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(9,35): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(9,16): error C2672: "std::min": не найдена соответствующая перегруженная функция
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(105,26):
+      может быть "_Ty std::min(std::initializer_list<_Elem>)"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(102,26):
+      или       "_Ty std::min(std::initializer_list<_Elem>,_Pr)"
+          E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(9,16):
+          "_Ty std::min(std::initializer_list<_Elem>,_Pr)": ожидаются аргументы 2 — 1 предоставлены
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(95,6):
+      или       "const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)"
+          E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(9,16):
+          "const _Ty &std::min(const _Ty &,const _Ty &) noexcept(<expr>)": ожидаются аргументы 2 — 1 предоставлены
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(85,33):
+      или       "const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)"
+          E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(9,16):
+          "const _Ty &std::min(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)": ожидаются аргументы 3 — 1 предоставлены
+  
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(10,26): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(10,35): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(10,16): error C2672: "std::max": не найдена соответствующая перегруженная функция
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(82,26):
+      может быть "_Ty std::max(std::initializer_list<_Elem>)"
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(79,26):
+      или       "_Ty std::max(std::initializer_list<_Elem>,_Pr)"
+          E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(10,16):
+          "_Ty std::max(std::initializer_list<_Elem>,_Pr)": ожидаются аргументы 2 — 1 предоставлены
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(72,6):
+      или       "const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)"
+          E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(10,16):
+          "const _Ty &std::max(const _Ty &,const _Ty &) noexcept(<expr>)": ожидаются аргументы 2 — 1 предоставлены
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\utility(62,33):
+      или       "const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)"
+          E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(10,16):
+          "const _Ty &std::max(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)": ожидаются аргументы 3 — 1 предоставлены
+  
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(11,25): error C2065: n: необъявленный идентификатор
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(13,19): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(16,26): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(19,19): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(20,26): error C2109: для индекса требуется массив или указатель
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(21,9): error C2563: несоответствие в списке формальных параметров
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(22,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "count"
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(22,9): error C2563: несоответствие в списке формальных параметров
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(23,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(25,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+E:\projekt C++\DZ 1\1.1 DZ\1.1 DZ.cpp(7,12): error C1075: "{": не найдена несоответствующая лексема
